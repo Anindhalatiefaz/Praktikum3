@@ -41,8 +41,8 @@
  #string kode belah ketupat
  string = ""
 print("LATIHAN 3")
-print("Rini Ariza")
-print("312210337")
+print("Anindha Latiefa Zahra")
+print("312210323")
 x = 5
 bar = x
 # Looping Baris
